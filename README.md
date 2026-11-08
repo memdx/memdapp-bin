@@ -1,2 +1,4 @@
 # memdapp-bin
 A modern editor for creative people. Public binary releases for memdapp (Flutter). Source code is private; downloadable packages (.deb, .apk, .zip, .tar.gz) are published here.
+
+Современный редактор для творческих людей. Публичные сборки memdapp (Flutter). Исходный код привататен. Пакеты — в разделе Releases.
